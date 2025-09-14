@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.402e73d1.css",
+    "main.js": "/Portfolio/static/js/main.cdfb9e24.js",
+    "static/media/Postman-certificate.png": "/Portfolio/static/media/Postman-certificate.f3f5d864765c936fcaf3.png",
+    "static/media/mypic.jpg": "/Portfolio/static/media/mypic.58eb95b36e58bbdb2351.jpg",
+    "static/media/Google-cloud-certificate.png": "/Portfolio/static/media/Google-cloud-certificate.f4536358f1e973526957.png",
+    "static/media/GSSoC badge.jpg": "/Portfolio/static/media/GSSoC badge.ae44eb229ace787e143f.jpg",
+    "static/media/Updated-Resume.pdf": "/Portfolio/static/media/Updated-Resume.e9de01ad8a3dde54f95b.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.402e73d1.css.map": "/Portfolio/static/css/main.402e73d1.css.map",
+    "main.cdfb9e24.js.map": "/Portfolio/static/js/main.cdfb9e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402e73d1.css",
+    "static/js/main.cdfb9e24.js"
+  ]
+}
