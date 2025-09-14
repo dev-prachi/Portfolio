@@ -1,7 +1,7 @@
 import React from 'react';
-import Certi1 from '../../assets/AWS-cloud-comp-cer.pdf';
-import Certi2 from '../../assets/GSSOC certificate.pdf'
-import img1 from '../../assets/AWS_AI.PNG'
+import Certi1 from '../../assets/Google-cloud-certificate.png';
+import Certi2 from '../../assets/GSSoC badge.jpg'
+import img1 from '../../assets/Postman-certificate.png'
 
 const Certificate = () =>{
 return (
@@ -13,28 +13,28 @@ return (
 <div className="container portfolio__container">
 
   <article className='portfolio__item'>
-      <h3>AWS Cloud Computing</h3>
-      <small className='text-light'>Explored about AWS fundamental and Cloud Computing</small>
+      <h3>Google Cloud Skill Badge in Prompt Design in Vertax AI</h3>
+      <small className='text-light'>Explored about Prompt Designing in Vertax AI</small>
       <div className="portfolio__item-cta">
-      <a href={Certi1} download className='btn btn-primary'>Download CV</a>
+      <a href={Certi1} download className='btn btn-primary'>Download Certificate</a>
       </div>
         
   </article>
 
   <article className='portfolio__item'>
-      <h3>AWS AI conclave certificate</h3>
-      <small className='text-light'>Learnt about AWS , Generative AI, Machine Learning and many more </small>
+      <h3>Postman API Fundamentals Student Expert Certificate and Badge</h3>
+      <small className='text-light'>Learned about the Fundamentals of API. </small>
       <div className="portfolio__item-cta">
-      <a href={img1} download className='btn btn-primary'>Download CV</a>
+      <a href={img1} download className='btn btn-primary'>Download Certificate</a>
       </div>
         
   </article>
 
   <article className='portfolio__item'>
-      <h3>GSSOC open source certificate</h3>
-      <small className='text-light'>Contibuted to Frontend projects , fixed bugs , improved features and resolved issues.</small>
+      <h3>GSSOC open source Contributor Badge</h3>
+      <small className='text-light'>Contributing to Frontend projects , fixed bugs , improved features and resolved issues.</small>
       <div className="portfolio__item-cta">
-      <a href={Certi2} download className='btn btn-primary'>Download CV</a>
+      <a href={Certi2} download className='btn btn-primary'>Download Certificate</a>
       </div>   
   </article>
   </div>

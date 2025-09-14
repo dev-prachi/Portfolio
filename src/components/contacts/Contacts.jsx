@@ -11,7 +11,7 @@ const Contacts = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_2rw02n8', 'template_hmevlhr', form.current, 'bS-X1jpAXJFo8AS_9')
+    emailjs.sendForm('service_t9y3bj7', 'template_h27xt2l', form.current, '4dvY-OXY8d_AJLZ1O')
     e.target.reset()
     
   }
@@ -28,8 +28,8 @@ const Contacts = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>sharmaswati11606@gmail.com</h5>
-            <a href="mailto:sharmaswati11606@gmail.com">Send a message</a>
+            <h5>hpandit381@gmail.com</h5>
+            <a href="mailto:hpandit381@gmail.com">Send a message</a>
           </article>
         </div>
 

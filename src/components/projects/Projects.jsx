@@ -18,11 +18,11 @@ const Projects = () => {
             <div className="portfolio__item-image">
                 {/* <img src={IMG1} alt="" /> */}
             </div>
-            <h3>Dino Game</h3>
+            <h3>Music Player Project</h3>
             <small className='text-light'> HTML | CSS | Js</small>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/Developer-Swati/Dino-Game" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://developer-swati.github.io/Dino-Game/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Here</a>
+            <a href="https://github.com/dev-prachi/Music-Player-Project" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://dev-prachi.github.io/Music-Player-Project/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Here</a>
             </div>
               
         </article>
@@ -42,11 +42,47 @@ const Projects = () => {
             <div className="portfolio__item-image">
                 {/* <img src={IMG3} alt="" /> */}
             </div>
-            <h3>Voice Maker</h3>
+            <h3>Notes App Project</h3>
             <small className='text-light'>ReactJs | CSS | JS </small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/Developer-Swati/voice-maker" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://developer-swati.github.io/voice-maker/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/dev-prachi/NotesApp" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://dev-prachi.github.io/NotesApp/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+            </div>
+            
+        </article>
+         <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                {/* <img src={IMG3} alt="" /> */}
+            </div>
+            <h3>Snake Game Project</h3>
+            <small className='text-light'>HTML | CSS | JS </small>
+            <div className="portfolio__item-cta">
+              <a href="https://github.com/dev-prachi/Snake-Game-Project" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://dev-prachi.github.io/Snake-Game-Project/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+            </div>
+            
+        </article>
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                {/* <img src={IMG3} alt="" /> */}
+            </div>
+            <h3>Dino Game Project</h3>
+            <small className='text-light'>HTML | CSS | JS </small>
+            <div className="portfolio__item-cta">
+              <a href="https://github.com/dev-prachi/Dino-Game-Project" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://dev-prachi.github.io/Dino-Game-Project/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+            </div>
+            
+        </article>
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                {/* <img src={IMG3} alt="" /> */}
+            </div>
+            <h3>Website Template </h3>
+            <small className='text-light'>HTML | CSS </small>
+            <div className="portfolio__item-cta">
+              <a href="https://github.com/dev-prachi/Clean-Work-Landing-Page" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://dev-prachi.github.io/Clean-Work-Landing-Page/#" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
             </div>
             
         </article>

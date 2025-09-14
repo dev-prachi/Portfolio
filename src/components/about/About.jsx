@@ -1,7 +1,7 @@
 // this is about
 import React from 'react'
 import './about.css'
-import myImage from '../../assets/mypic.png'
+import myImage from '../../assets/mypic.jpg'
 import {GiGraduateCap} from 'react-icons/gi'
 import {BsBookmarkStar} from 'react-icons/bs'
 import {TfiWorld} from 'react-icons/tfi'
@@ -32,8 +32,8 @@ const About = () => {
 
               <article className='about__card'>
                   <BsBookmarkStar className='about__icon'/>
-                  <h5>Current GPA</h5>
-                  <small>8.6</small>
+                  <h5>Current CGPA</h5>
+                  <small>8.0</small>
               </article>
 
               <article className='about__card'>
@@ -41,7 +41,7 @@ const About = () => {
                   <h5>Domains</h5>
                   <small>
                     <ul>
-                      <li>Full stack web development</li>
+                      <li>Web development</li>
                       <li>Core Java</li>
                     </ul>
                   </small>
@@ -51,7 +51,7 @@ const About = () => {
 
             </div>
             <p>
-                    I'm a <b>Computer Science Undergradute</b> at the Kurukshetra University. 
+                    I'm a <b>Computer Science & Engineering Undergradute</b> at the Kurukshetra University. 
                     I'm an enthusiastic and driven student seeking a challenging opportunity to apply 
                     and expand my technical skills. 
                     With a strong academic foundation in computer science and hands-on experience in various programming languages,
