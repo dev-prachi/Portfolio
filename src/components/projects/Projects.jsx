@@ -33,8 +33,8 @@ const Projects = () => {
             <h3>My Portfolio(This website)</h3>
             <small className='text-light'>ReactJs</small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/Developer-Swati/My-Portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://github.com/Developer-Swati/My-Portfolio" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/dev-prachi/Portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://dev-prachi.github.io/Portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
             </div>
             
         </article>
